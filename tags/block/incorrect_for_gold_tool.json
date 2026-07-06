@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:lapis_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:ancient_debris",
+    "minecraft:respawn_anchor"
+  ]
+}
