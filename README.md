@@ -20,6 +20,6 @@ FEATURES:
   - This enchantment reduces damage from all axe and sword attacks, pve and pvp.
   - These changes were made to introduce a stronger reason to mix and match protection enchantments, rather than just use protection.
  
-  KNOWN ISSUES:
+KNOWN ISSUES:
   - Gold tools still have their original stats. While I was able to change the tiers, I'm not sure there is an easy way to change their stats with a datapack at the moment. Please let me know if there is.
   - As a solution please use https://modrinth.com/mod/custom-durability and the config file attached. This only fixes durability.
