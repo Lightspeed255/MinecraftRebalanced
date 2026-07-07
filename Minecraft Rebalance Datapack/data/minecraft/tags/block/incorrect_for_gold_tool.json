@@ -4,6 +4,10 @@
     "minecraft:lapis_ore",
     "minecraft:deepslate_lapis_ore",
     "minecraft:ancient_debris",
-    "minecraft:respawn_anchor"
+    "minecraft:respawn_anchor",
+    "minecraft:diamond_block",
+    "minecraft:netherite_block",
+    "minecraft:lapis_block"
+    
   ]
 }
